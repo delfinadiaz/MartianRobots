@@ -1,0 +1,13 @@
+C:\Challenge\MartianRobots\MartianRobots.Application\obj\Debug\netcoreapp3.1\MartianRobots.Application.csproj.AssemblyReference.cache
+C:\Challenge\MartianRobots\MartianRobots.Application\obj\Debug\netcoreapp3.1\MartianRobots.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Challenge\MartianRobots\MartianRobots.Application\obj\Debug\netcoreapp3.1\MartianRobots.Application.AssemblyInfoInputs.cache
+C:\Challenge\MartianRobots\MartianRobots.Application\obj\Debug\netcoreapp3.1\MartianRobots.Application.AssemblyInfo.cs
+C:\Challenge\MartianRobots\MartianRobots.Application\obj\Debug\netcoreapp3.1\MartianRobots.Application.csproj.CoreCompileInputs.cache
+C:\Challenge\MartianRobots\MartianRobots.Application\bin\Debug\netcoreapp3.1\MartianRobots.Application.deps.json
+C:\Challenge\MartianRobots\MartianRobots.Application\bin\Debug\netcoreapp3.1\MartianRobots.Application.dll
+C:\Challenge\MartianRobots\MartianRobots.Application\bin\Debug\netcoreapp3.1\MartianRobots.Application.pdb
+C:\Challenge\MartianRobots\MartianRobots.Application\bin\Debug\netcoreapp3.1\MartianRobots.Domain.dll
+C:\Challenge\MartianRobots\MartianRobots.Application\bin\Debug\netcoreapp3.1\MartianRobots.Domain.pdb
+C:\Challenge\MartianRobots\MartianRobots.Application\obj\Debug\netcoreapp3.1\MartianRobots.Application.csproj.CopyComplete
+C:\Challenge\MartianRobots\MartianRobots.Application\obj\Debug\netcoreapp3.1\MartianRobots.Application.dll
+C:\Challenge\MartianRobots\MartianRobots.Application\obj\Debug\netcoreapp3.1\MartianRobots.Application.pdb

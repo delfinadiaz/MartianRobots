@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCcm1PhDq72/QtflVvezi+b4IqLyn6paB0NZXyTntQKBabx4ft7pUWlUPTDLlh9q/EyeBAacBONOJSx+lyeuxg==",
+  "success": true,
+  "projectFilePath": "C:\\Challenge\\MartianRobots\\MartianRobots.Domain\\MartianRobots.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\delfina.diaz\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.29\\microsoft.entityframeworkcore.abstractions.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
